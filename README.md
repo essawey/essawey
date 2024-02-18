@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=essawey&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=essawey&theme=algolia&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=essawey&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
