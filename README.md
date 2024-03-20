@@ -1,5 +1,15 @@
 # 💫 About Me Mohamed Essawey:
-🔭I'm currently working on graduation project<br>🤝I'm looking for help in research environment<br>🌱 I'm currently learning new python frameworks<br>⚡Fun fact I usually listen to music while working
+
+- 🎓 I'm currently studying Artificial Intelligence **at Nile University**
+
+- 🌱 I'm on track for learning more about **Data Science and Backend Development.**
+
+- 💡  I like to explore **new technologies and develop software solutions.**
+
+- ✉️  You can shoot me an email at **M.Abdelmaged@nu.edu.eg!**.
+
+- 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:w:/g/personal/m_abdelmaged_nu_edu_eg/EfdbagLWhnFCmglvF0IcnXQBgne30uGJtJS9toD0IHLFgg?e=7BQ5b4)** for more details about me. I'm open to feedback and suggestions!.
+
 
 
 ## 🌐 Socials:
