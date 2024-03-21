@@ -6,7 +6,7 @@
 
 - 💡  I like to explore **new technologies and develop software solutions.**
 
-- ✉️  You can shoot me an email at **M.Abdelmaged@nu.edu.eg!**.
+- ✉️  You can shoot me an email at **M.Abdelmaged@nu.edu.eg!**
 
 - 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:w:/g/personal/m_abdelmaged_nu_edu_eg/EfdbagLWhnFCmglvF0IcnXQBgne30uGJtJS9toD0IHLFgg?e=7BQ5b4)** for more details about me. I'm open to feedback and suggestions!.
 
