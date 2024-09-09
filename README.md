@@ -1,11 +1,11 @@
 # 💫 About Me Mohamed Essawey:
 
-- 🎓 I'm currently studying Artificial Intelligence **at Nile University**.
+  - 🎓I'm a recent graduate in Artificial Intelligence from **Nile University**.
 
-- 🌱 I'm on track for learning more about **Data Science and Backend Development.**
+- 🌱 I'm on track for learning more about **Machine Learning and ML-Ops.**
 
-- 💡  I like to explore **new technologies and develop software solutions.**
-
+- 💡  I am enthusiastic to learn and challenge myself to push the boundaries of knowledge.
+  
 - ✉️  You can shoot me an email at **M.Abdelmaged@nu.edu.eg!**
 
 - 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:w:/g/personal/m_abdelmaged_nu_edu_eg/ETWpFlWvX95Oq3VuUBStWAEBNBEmWsN_FdaqwGByYuiNQA?e=eVEm9Q)** for more details about me. I'm open to feedback and suggestions!
