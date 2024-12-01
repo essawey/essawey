@@ -6,15 +6,15 @@
 
 - 💡  I am enthusiastic to learn and challenge myself to push the boundaries of knowledge.
   
-- ✉️  You can shoot me an email at **rawann.elframawy@gmail.com!**
+- ✉️  You can shoot me an email at **M.Abdelmaged@nu.edu.eg!**
 
-- 📄  Please have a look at my **[EDIT Résumé](LINK TO CV)** for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:b:/g/personal/m_abdelmaged_nu_edu_eg/EamVPG285OpPtGQESoNkMXcBpCcJo3Qhc7iVMQhhfyYF9Q?e=X10Egi)** for more details about me. I'm open to feedback and suggestions!
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rawann31) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/201030416936) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/essawey) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/201207064854) 
 
 # 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
