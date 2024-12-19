@@ -1,6 +1,6 @@
 # 💫 About Me Mohamed Essawey:
 
-  - 🎓I'm a recent graduate in Artificial Intelligence from **Nile University**.
+- 🎓 Nile University graduate with a degree in **Artificial Intelligence**
 
 - 🌱 I'm on track for learning more about **Machine Learning and ML-Ops.**
 
