@@ -2,7 +2,7 @@
 
 - 🎓 Nile University graduate with a degree in **Artificial Intelligence**
 
-- 🌱 I'm on track for learning more about **Machine Learning and ML-Ops.**
+- 🌱 I'm on track for learning more about **Federated Learning and ML-Ops.**
 
 - 💡  I am enthusiastic to learn and challenge myself to push the boundaries of knowledge.
   
