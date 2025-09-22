@@ -8,8 +8,8 @@
   
 - ✉️  You can shoot me an email at **M.Abdelmaged@nu.edu.eg!**
 
-- 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:b:/g/personal/m_abdelmaged_nu_edu_eg/EeUn9LLaDQNJl5dWIVK4TUYBzXChT4FTNh0klypC5uix0g?e=XjcqZv)** for more details about me. I'm open to feedback and suggestions!
-    
+- 📄  Please have a look at my **[Résumé](https://nileuniversity-my.sharepoint.com/:b:/g/personal/m_abdelmaged_nu_edu_eg/EeUn9LLaDQNJl5dWIVK4TUYBzXChT4FTNh0klypC5uix0g?e=XjcqZv)** for more details about me.
+ 
 
 
 ## 🌐 Socials:
